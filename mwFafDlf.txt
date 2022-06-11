@@ -1,0 +1,75 @@
+{
+"BUILD":"VERSAO COMPATIVEL BUILD 06",
+"VERSAO":"1.0",
+
+"MODO01":"sslpay",
+"NOMESERVIDOR01":"VIVO",
+"SERVIDOR01":"sucatafloresta.site",
+"IPSERVIDOR01":"104.18.7.80",
+"PORTA01":"443",
+"BUGHOST01":"snow.vivo.com.br",
+
+"MODO02":"sslpay",
+"NOMESERVIDOR02":"TIM",
+"SERVIDOR02":"sucatafloresta.site",
+"IPSERVIDOR02":"104.26.5.175",
+"PORTA02":"443",
+"BUGHOST02":"static.r4you.co",
+
+"MODO03":"sslpay",
+"NOMESERVIDOR03":"OI",
+"SERVIDOR03":"sucatafloresta.site",
+"IPSERVIDOR03":"104.16.53.91",
+"PORTA03":"443",
+"BUGHOST03":"www.hbogo.com.br",
+
+"MODO04":"sslpay",
+"NOMESERVIDOR04":"CLARO",
+"SERVIDOR04":"sucatafloresta.site",
+"IPSERVIDOR04":"172.67.201.105",
+"PORTA04":"443",
+"BUGHOST04":"ftp.boom4u.com.br",
+
+"VIVO":"</font><font color=\"#008000\">ON</font>",
+"TIM":"</font><font color=\"#008000\">ON</font>",
+"CLARO":"</font><font color=\"#008000\">ON</font>",
+"OI":"</font><font color=\"#008000\">ON</font>",
+"DATAUP":"06/03/2022",
+
+"CAIXADEMENSAGENS":"florestanet",
+
+"ENVIARMENSAGEM":1,
+"MENSAGEM":"Esta mensagem aparecera somente se você alterar o valor de ENVIARMENSAGEM e para aparecer novamente aumente o valor, desaparecera assim que o usuário clicar Ok",
+
+"ALERTA":"",
+"ALERTAMSG":"Esta mensagem sempre aparecera assim que o usuário abrir o app, para deixar oculta deixe (alerta) vazio ",
+
+"BTNTERMOS":"ocultar",
+"TERMOS":"Termos de Uso",
+"POLITICA":"</font><font color=\"#FF0000\">• RISCO DA OPERADORA BLOQUEAR<br> A CONEXÃO DO APP<br></font><font color=\"#FF0000\"></font><font color=\"#FF0000\">• PROIBIDO USO DE TORRENT<br></font><font color=\"#FF0000\">• PROIBIDO ATOS ILÍCITOS<br></font><font color=\"#FF0000\">• VPN NÃO GARANTE ANONIMATO<br></font><font color=\"#FF0000\">• NÃO HÁVERA DEVOLUCÃO CASO A CONEXÃO SEJA INTERROMPIDA POR TERCEIROS</font><br></font><font color=\"#FF0000\">• NÃO COMPARTILHE SUA CONTA ELA PODE SER EXCLUIDA AUTOMATICAMENTE PELO SISTEMA",
+
+"VALOR":"",
+
+"BTNPIX":"ocultar",
+"NOMEDACHAVE":"CHAVE ALEATORIA",
+"CHAVEPIX":"b54bc1c3-c892-4b3a-a7ac-73a46f9eefa3",
+
+"BTNPICPAY":"ocultar",
+"PICPAY":"https://picpay.me/ntpro/10.0",
+
+"BTNWHATSAPP":"ocultar",
+"BTNCONTATO":"",
+"WHATSAPP":"https://wa.me/message/SMWNCYDNRMZGG1",
+
+"BTNTELEGRAM":"ocultar",
+"TELEGRAM":"https://t.me/NTInjectorPro",
+
+"BTNBOTTESTE":"ocultar",
+"BTNBOT":"",
+"LINKBOT":"http://t.me/nt_injector_pro_bot",
+
+"DICA":" Instale o Script para ativar o checkUser https://github.com/NT-GIT-HUB/DataPlugin ",
+
+"IPDATA":"0.0.0.0",
+"PORTACHECKUSER":"5000"
+}
